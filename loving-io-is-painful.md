@@ -138,10 +138,7 @@ a_person.has_father?
 Now lets be clear about these examples. These are simplistic examples of what I consider to be a problem. I will even admit that complex things in Io tend to be less work than complex things in Ruby. I admit that with a pretty heavy caveat: Complex things are less work in spite of these things rather than because of these syntax "issues".
 
 
-Conclusion
-==========
-
-I'm not quite sure how to end this piece. As someone who is building the *4th Io package manager* I find myself annoyed that these things aren't in the language. I have to deal with it constantly while writing Io and it shocks me that others wouldn't find this a problem. I also realize that the people who couldn't care less about the my issue are people who have already accepted Io. They actively work on Io as a main hobby.
+**Conclusion** I'm not quite sure how to end this piece. As someone who is building the *4th Io package manager* I find myself annoyed that these things aren't in the language. I have to deal with it constantly while writing Io and it shocks me that others wouldn't find this a problem. I also realize that the people who couldn't care less about the my issue are people who have already accepted Io. They actively work on Io as a main hobby.
 
 Shouldn't the Io community, as small as it already is, be more concerned as to why it's the only interpreted language without `List` or `Map` literals? It's been suggested that I poll Io devs on if they want it or not. I submit that it would be the most useless poll ever as we already know if they want it or not. They're actively using Io. Instead a better poll would be if Ruby, Python, or Javascript developers would be OK with removing `[]` or `{}` from their programming vocabulary.
 
