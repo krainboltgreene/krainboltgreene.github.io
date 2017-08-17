@@ -19,7 +19,6 @@
 * [OpenStruct sucked and I "fixed" it](openstruct-sucked-and-i-fixed-it.md)
 * [Rails Controllers & Actions](rails-controllers-and-actions.md)
 * [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
-* [An HTTP Client](an-http-client.md)
 * [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
 * [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
 * [Loving Io is painful](loving-io-is-painful.md)
@@ -51,4 +50,5 @@
 * [Hello Eve, I hate my career](i-hate-my-career.md)
 * [Postgres Client Interface](postgres-client-interface.md)
 * [Working with Legacy](working-with-legacy.md)
+* [An HTTP Client](an-http-client.md)
 
