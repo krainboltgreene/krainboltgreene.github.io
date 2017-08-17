@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Rails Controllers & Actions](rails-controllers-and-actions.md)
+* [Hero's Call](heros-call.md)
 
 ## General
 
