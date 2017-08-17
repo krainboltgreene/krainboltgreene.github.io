@@ -1,0 +1,7 @@
+- Error pointers should have been JSONPaths.
+- Errors shouldn't have included status or codes.
+- Relationship endpoints were a bad idea.
+- Enforce single level apis.
+- Join resources!
+- Errors should have just had slugs and maybe messages
+- Best practice blog
