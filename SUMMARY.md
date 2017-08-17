@@ -49,4 +49,6 @@
 * [Developers are harmed by symbols](developers-are-harmed-by-symbols.md)
 * [What jsonapi.org got wrong](what-jsonapiorg-got-wrong.md)
 * [Hello Eve, I hate my career](i-hate-my-career.md)
+* [Postgres Client Interface](postgres-client-interface.md)
+* [Working with Legacy](working-with-legacy.md)
 
