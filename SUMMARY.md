@@ -14,6 +14,7 @@
 ## Programming
 
 * [Exploring Padrino](exploring-padrino.md)
+* [My thoughts on CSS](my-thoughts-on-css.md)
 * [OpenStruct sucked and I "fixed" it](openstruct-sucked-and-i-fixed-it.md)
 * [Rails Controllers & Actions](rails-controllers-and-actions.md)
 * [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
