@@ -1,0 +1,3 @@
+I'm not happy with where I'm at career-wise. My first job ever was a "cook" at Pizza Hut. I didn't have any appreciable skills or abilities. I didn't really have any work ethic beyond my own internal senses. I wasn't going to really gain any from having worked there. My next job was equally unfulfilling.
+
+I would move to Oregon and get a desperate job at Radioshack. It as right around the time of the recession and
