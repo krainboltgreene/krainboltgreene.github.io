@@ -22,7 +22,7 @@
 
 ## Writing Exercises
 
-* [Colossus: Cold Steel](colossus-cold-steel-writing-exercise.md)
+* [Colossus: Cold Steel](colossus-cold-steel.md)
 * [An Old Tale](an-old-tale.md)
 * [Dark King](dark-king.md)
 * [Hero's Call](heros-call.md)
