@@ -3,7 +3,6 @@
 ## Welcome
 
 * [Introduction](README.md)
-* [Of Grand Importance](of-grand-importance.md)
 
 ## General
 
@@ -11,6 +10,7 @@
 * [An experiment in alphabet design](iplo-a-written-language.md)
 * [How I learned a little about databases](how-i-learned-a-little-about-databases.md)
 * [Affiliate Marketing 101](affiliate-marketing-101.md)
+* [What makes an RPG lite?](what-makes-an-rpg-lite.md)
 
 ## Programming
 
@@ -29,7 +29,9 @@
 
 * [Colossus: Cold Steel](colossus-cold-steel.md)
 * [An Old Tale](an-old-tale.md)
+* [Of Grand Importance](of-grand-importance.md)
 * [Dark King](dark-king.md)
+* [Top World](top-world.md)
 * [Hero's Call](heros-call.md)
 
 ## Opinion Pieces
