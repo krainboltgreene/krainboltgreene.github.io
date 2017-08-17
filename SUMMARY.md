@@ -17,6 +17,7 @@
 * [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
 * [OpenStruct sucked and I "fixed" it](openstruct-sucked-and-i-fixed-it.md)
 * [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
+* [Exploring Padrino](exploring-padrino.md)
 
 ## Writing Exercises
 
