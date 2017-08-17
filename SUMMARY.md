@@ -22,6 +22,7 @@
 * [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
 * [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
 * [Loving Io is painful](loving-io-is-painful.md)
+* [I give up, I need to learn FP](i-give-up-i-need-to-learn-fp.md)
 
 ## Writing Exercises
 
