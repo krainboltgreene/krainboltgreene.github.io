@@ -35,5 +35,6 @@
 
 ## Drafts
 
+* Developers are harmed by symbols
 * [What jsonapi.org got wrong](draft-what-jsonapiorg-got-wrong.md)
 
