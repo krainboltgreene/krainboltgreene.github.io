@@ -14,15 +14,16 @@
 
 ## Programming
 
-* [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
-* [OpenStruct sucked and I "fixed" it](openstruct-sucked-and-i-fixed-it.md)
-* [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
 * [Exploring Padrino](exploring-padrino.md)
+* [OpenStruct sucked and I "fixed" it](openstruct-sucked-and-i-fixed-it.md)
+* [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
+* [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
 
 ## Writing Exercises
 
 * [Colossus: Cold Steel](colossus-cold-steel-writing-exercise.md)
 * [An Old Tale](an-old-tale.md)
+* [Dark King](dark-king.md)
 
 ## Opinion Pieces
 
