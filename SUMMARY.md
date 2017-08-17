@@ -4,7 +4,6 @@
 
 * [Introduction](README.md)
 * [Rails Controllers & Actions](rails-controllers-and-actions.md)
-* [Hero's Call](heros-call.md)
 
 ## General
 
@@ -25,6 +24,7 @@
 * [Colossus: Cold Steel](colossus-cold-steel-writing-exercise.md)
 * [An Old Tale](an-old-tale.md)
 * [Dark King](dark-king.md)
+* [Hero's Call](heros-call.md)
 
 ## Opinion Pieces
 
