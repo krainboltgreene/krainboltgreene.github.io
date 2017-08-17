@@ -17,7 +17,7 @@ This is another world building piece I wrote a while ago. I was just starting to
 > Send these, the feared, war-hungry to me,  
 > I lift my standard beside the steel door!"  
 >
-> - Lazarus, Chief Of Ceremonies, 3033*AF*
+> - Lazarus, Chief Of Ceremonies, 3033AF
 
 
 **Building The Fire (1AF)** The first to emerge *After the Fall* from bunkers and fortresses, built in a more paranoid and war-engulfed era, were babes in the cold. They were ready to give up their respective nationalities and beliefs. They had seen what religion and patriotism had done to our womb and they were ready to be birthed without those cords. Those who couldn't release themselves were silenced quickly. Humans cannot exist in a permanent vacuum of power however and the upper echelons of the massive corporations turned cabals from that same war-engulfed era saw an opportunity.
