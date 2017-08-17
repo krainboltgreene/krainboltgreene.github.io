@@ -3,7 +3,7 @@
 ## Welcome
 
 * [Introduction](README.md)
-* [An Old Tale](an-old-tale.md)
+* [Rails Controllers & Actions](rails-controllers-and-actions.md)
 
 ## General
 
@@ -21,6 +21,7 @@
 ## Writing Exercises
 
 * [Colossus: Cold Steel](colossus-cold-steel-writing-exercise.md)
+* [An Old Tale](an-old-tale.md)
 
 ## Opinion Pieces
 
