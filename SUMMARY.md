@@ -3,6 +3,7 @@
 ## Welcome
 
 * [Introduction](README.md)
+* [Of Grand Importance](of-grand-importance.md)
 
 ## General
 
