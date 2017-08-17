@@ -3,7 +3,6 @@
 ## Welcome
 
 * [Introduction](README.md)
-* [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
 
 ## General
 
@@ -20,6 +19,7 @@
 * [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
 * [An HTTP Client](an-http-client.md)
 * [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
+* [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
 * [Loving Io is painful](loving-io-is-painful.md)
 
 ## Writing Exercises
