@@ -23,6 +23,7 @@
 * [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
 * [Loving Io is painful](loving-io-is-painful.md)
 * [I give up, I need to learn FP](i-give-up-i-need-to-learn-fp.md)
+* [Functional View Trees with State](functional-view-trees-with-state.md)
 
 ## Writing Exercises
 
