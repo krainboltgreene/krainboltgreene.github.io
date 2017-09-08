@@ -3,6 +3,7 @@
 ## Welcome
 
 * [Introduction](README.md)
+* [Resume](RESUME.md)
 
 ## General
 
@@ -52,4 +53,3 @@
 * [Postgres Client Interface](postgres-client-interface.md)
 * [Working with Legacy](working-with-legacy.md)
 * [An HTTP Client](an-http-client.md)
-
