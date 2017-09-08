@@ -1,4 +1,4 @@
-# Kurtis Rainbolt-Greene's Resume (SEP 2017)
+# Kurtis Rainbolt-Greene's Resume
 
 I've been making programs for the last 11 years and professionally working as a software engineer for the last 10 years. I have largely worked on web applications, but have experience in many fields: ETL, hardware, system operations, and more.
 
@@ -66,6 +66,7 @@ I have organized or been a part of organizing these events or groups:
   - Rails Girls NOLA, a small event of 30+ women getting into software development via fast and loose lessons spanning two days. I was one of the main teachers and mentors.
   - Hack Dat, a hackathon that I participated in. I built Bard with three other contestants. We didn't win, but we had a good time.
   - Rails Hotline, a hotline service for people who had rails questions. I received a lot of cool swag for being on the air for the longest time. I think it was around 9 months in total?
+  - NOLA on Rails, a class for teaching people how to build Rails applications.
 
 
 ## What I have made
