@@ -75,8 +75,8 @@ function authorSignature ({author: {name, email}}) {
 And now we use it:
 
 ``` javascript
-function footer () {
-  return section({
+function information () {
+  return footer({
     content: [
       "Check me out on mastodon.social",
       authorSignature()
