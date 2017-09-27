@@ -3,6 +3,7 @@
 I've been making programs for the last 11 years and professionally working as a software engineer for the last 10 years. I have largely worked on web applications, but have experience in many fields: ETL, hardware, system operations, and more.
 
 My Github: https://github.com/krainboltgreene
+
 My LinkedIn: https://www.linkedin.com/in/krainboltgreene/
 
 
