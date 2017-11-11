@@ -20,15 +20,15 @@ end
 Rails takes these instructions and understands a few things from it:
 
   1. There's a `ideas` resource
-      - And that includes a `IdeasController`
-      - And it will have 7 Actions
-      - And gets mapped to the `/ideas` path
-      - And generates `*idea(s)_(path|url)` methods
+    - And that includes a `IdeasController`
+    - And it will have 7 Actions
+    - And gets mapped to the `/ideas` path
+    - And generates `*idea(s)_(path|url)` methods
   2. There's a `articles` resource
-      - And that includes a `ArticlesController`
-      - And it will have 7 Actions
-      - And gets mapped to the `/articles` path
-      - And generates `*article(s)_(path|url)` methods
+    - And that includes a `ArticlesController`
+    - And it will have 7 Actions
+    - And gets mapped to the `/articles` path
+    - And generates `*article(s)_(path|url)` methods
 
 Those seven actions are as follows:
 
@@ -86,20 +86,21 @@ class Ideas::New < Controller::Action
 
   def initialize(header, parameters)
     authenticate_http_token(header)
+
     idea = Idea.new parameters[:idea]
   end
 
   def to_html
-    html {
+    html do
       header do
         h1.title { idea.title }
       end
-      p.body { idea.body }
-    }.as_html
+      paragraph.body { idea.body }
+    end
   end
 
   def to_json
-    idea.attributes.as_json
+    Oj.dump(idea.attributes)
   end
 end
 ```
