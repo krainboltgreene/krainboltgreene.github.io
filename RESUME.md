@@ -27,12 +27,13 @@ I currently live in Los Angeles, CA but I am open to moving to the following loc
   - Cincinnati, OH
   - New Orleans, LA
 
-I am also extremely open to remote work or freelance work and I have done so previously.
+I am also *extremely* open to remote work or freelance work and I have done so previously.
 
 
 ## What I can do
 
 I primarily have experience in **Ruby** and **JavaScript**, having worked on both frontend and backend features. I have extensive experience with **Rails** and a lot of recently accrued experience using **React** and **Redux**. I have an intermediate understanding of **GraphQL** (both Netflix's Falcor and Facebook's GraphQL). I have a very good understanding of **PostgreSQL**, with a few holes here and there from learning how to use it myself in extreme circumstances.
+
 
 ## What I have worked on
 
@@ -77,5 +78,5 @@ I have organized or been a part of organizing these events or groups:
 
 These are personal projects I've shipped at one point or another:
 
-  - **Kerbal Space Station** which was a mod sharing service for a specific video game (Kerbal).
+  - **Kerbal Space Station** which was a mod sharing service for a specific video game [Kerbal]().
   - **Bard** which was a half-baked project management tool for a hackathon
