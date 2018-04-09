@@ -5,14 +5,6 @@
 * [Introduction](README.md)
 * [Resume](RESUME.md)
 
-## General
-
-* [I want to help build](i-want-to-help-build.md)
-* [An experiment in alphabet design](iplo-a-written-language.md)
-* [How I learned a little about databases](how-i-learned-a-little-about-databases.md)
-* [Affiliate Marketing 101](affiliate-marketing-101.md)
-* [What makes an RPG lite?](what-makes-an-rpg-lite.md)
-
 ## Programming
 
 * [Exploring Padrino](exploring-padrino.md)
@@ -27,6 +19,14 @@
 * [Functional View Trees with State](functional-view-trees-with-state.md)
 * [Functional View Trees with State (Solved)](functional-view-trees-with-state-solved.md)
 
+## Opinion Pieces
+
+* [I want to help build](i-want-to-help-build.md)
+* [Why I created email\_spy](why-i-created-emailspy.md)
+* [Offworld Trading Company looks amazing, CEO is terrible](offworld-trading-company-looks-amazing-ceo-is-terrible.md)
+* [How I learned a little about databases](how-i-learned-a-little-about-databases.md)
+* [Affiliate Marketing 101](affiliate-marketing-101.md)
+
 ## Writing Exercises
 
 * [Colossus: Cold Steel](colossus-cold-steel.md)
@@ -36,10 +36,10 @@
 * [Top World](top-world.md)
 * [Hero's Call](heros-call.md)
 
-## Opinion Pieces
+## Gaming
 
-* [Why I created email\_spy](why-i-created-emailspy.md)
-* [Offworld Trading Company looks amazing, CEO is terrible](offworld-trading-company-looks-amazing-ceo-is-terrible.md)
+* [What makes an RPG lite?](what-makes-an-rpg-lite.md)
+* [An experiment in alphabet design](iplo-a-written-language.md)
 
 ## Letters To My Daughter
 
