@@ -7,24 +7,24 @@
 
 ## Programming
 
-* [Exploring Padrino](exploring-padrino.md)
-* [My thoughts on CSS](my-thoughts-on-css.md)
+* [Functional View Trees with State (Solved)](functional-view-trees-with-state-solved.md)
+* [Functional View Trees with State](functional-view-trees-with-state.md)
+* [I give up, I need to learn FP](i-give-up-i-need-to-learn-fp.md)
+* [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
 * [OpenStruct sucked and I "fixed" it](openstruct-sucked-and-i-fixed-it.md)
 * [Rails Controllers & Actions](rails-controllers-and-actions.md)
-* [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
 * [Mythoas API Framework \(Ruby Edition\)](mythoas-api-framework-ruby-edition.md)
-* [My imaginary Rack replacement](my-imaginary-rack-replacement.md)
+* [An ORM born from my frustration with the status quo](an-orm-born-from-my-frustration-with-the-status-quo.md)
+* [My thoughts on CSS](my-thoughts-on-css.md)
 * [Loving Io is painful](loving-io-is-painful.md)
-* [I give up, I need to learn FP](i-give-up-i-need-to-learn-fp.md)
-* [Functional View Trees with State](functional-view-trees-with-state.md)
-* [Functional View Trees with State (Solved)](functional-view-trees-with-state-solved.md)
+* [Exploring Padrino](exploring-padrino.md)
+* [How I learned a little about databases](how-i-learned-a-little-about-databases.md)
+* [Why I created email\_spy](why-i-created-emailspy.md)
 
 ## Opinion Pieces
 
 * [I want to help build](i-want-to-help-build.md)
-* [Why I created email\_spy](why-i-created-emailspy.md)
 * [Offworld Trading Company looks amazing, CEO is terrible](offworld-trading-company-looks-amazing-ceo-is-terrible.md)
-* [How I learned a little about databases](how-i-learned-a-little-about-databases.md)
 * [Affiliate Marketing 101](affiliate-marketing-101.md)
 
 ## Writing Exercises
