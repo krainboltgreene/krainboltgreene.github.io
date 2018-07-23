@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    
+    
+
+    <base href="https://kurtis.rainbolt-greene.online">
+    <title>
+  Hello Eve! · Kurtis Rainbolt-Greene&#39;s Web Log
+</title>
+
+    <link rel="canonical" href="https://kurtis.rainbolt-greene.online/letters/hello-eve/">
+
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <link rel="stylesheet" href="https://kurtis.rainbolt-greene.online/css/style.min.css">
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://kurtis.rainbolt-greene.online/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://kurtis.rainbolt-greene.online/images/favicon-16x16.png" sizes="16x16">
+
+    
+
+    <meta name="generator" content="Hugo 0.45" />
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://kurtis.rainbolt-greene.online/">
+      Kurtis Rainbolt-Greene&#39;s Web Log
+    </a>
+    <ul class="navigation-list  float-right ">
+      
+    </ul>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>Hello Eve!</h1>
+    </header>
+
+    <p>Hey Eve!</p>
+
+<p>It&rsquo;s been a long time since I sent you any mail, but I think this is a good one. I loved legos as a child and my parents managed to get me quite a few sets. I remember playing with one of my childhood friends and inventing with him a complex role-palying strategy game involving them. In the package you&rsquo;re getting this from are two beginner lego sets. I hope you find them enjoyable, because I enjoyed getting them for you!</p>
+
+<p>I participated in a day long hackathon called <a href="http://www.example.com">OpenSourceNOLA</a>. Before I get into the prizes that I won I&rsquo;d like to tell you about what open source means for me. You see I&rsquo;ve always been rather poor and my family is no different. When I had you with your mother we didn&rsquo;t have much money and I was working for $8 an hour at RadioShack and I hated it. When I started programming I didn&rsquo;t have the resources for big computers or operating systems. Open source made a lot of tools free and available to me.</p>
+
+<p>I guess you probably also don&rsquo;t know what a <a href="http://www.example.com">Hackathon</a> is and I can tell you about that too. Hackathons are essentially get-togethers for computer-oriented people. Many of the people who go to these events are software developers like me. Some people are designers, graphic artists, or people who have ideas and are essentially community managers. We all form teams and work on common goals.</p>
+
+<p>The OpenSourceNOLA hackathon is a combination of these two concepts. Technically minded people get together in order to work on free and openly available software that might benefit others. The group I was a part of consisted of <a href="http://www.example.com">Melvin Arndold</a> and I, two experienced developers attempting to play with some new tools. He had the idea to build a unique social network over a rather untapped band of connection: Bluetooth.</p>
+
+<p>I suppose I could explain <a href="http://www.example.com">Bluetooth</a>, but frankly it&rsquo;s still complicated to me. The short of it is that Bluetooth is a specification and device type for two nodes (devices) to communicate over. In this application we built the Bluetooth service would be our <a href="http://www.example.com">link layer protocol</a>. Similar to <a href="http://www.example.com">Ethernet</a>, <a href="http://www.example.com">RJ45</a>, or <a href="http://www.example.com">USB</a> connections. This is further complicated and definitely beyond my ability to explain, but I&rsquo;m sure you&rsquo;ll figure it out.</p>
+
+<p>A person named <a href="http://www.example.com">n8fr8</a> thought up the idea to use the name of your Bluetooth device as the message you want to send others. This particular piece was named <strong>wind</strong> and would be the foundation of our application. In technical terms this is what you&rsquo;d consider a <a href="http://www.example.com">internet layer protocol</a>, much like <a href="http://www.example.com">TCP/IP</a>! We used his idea to build our own implementation in <a href="http://www.example.com">meteor.js</a> using <a href="http://www.example.com">Cordova</a> to deploy to an android phone. These are more things that you can look up or maybe I&rsquo;ll just explain them later.</p>
+
+<p>So far I&rsquo;ve been talking about the <em>hard</em> things to understand, but since we&rsquo;ve got that out of the way it&rsquo;s time to talk about the <em>easy</em> things. On top of all these layers we wrote a very simple application. The prototype ended up being called windjs and we compiled it for android. It was incredibly enriching to dive into not only Bluetooth specifications, but also experience Meteor and Cordova.</p>
+
+<p>First we needed to find out how to set the Bluetooth device name. This proved amusingly difficult since none of the libraries assumed we&rsquo;d want to do this! Apparently most Bluetooth tools don&rsquo;t <em>care</em> about the name of the device. It&rsquo;s a shortcut for humans to understand what is talking to what. Our first pull request was to the BlueToothSerial library for Cordova, giving us API access to the name field.</p>
+
+<p>After forking the repository and making our change we moved on to the daunting task of starting a new meteor project with Cordova in mind. I have to admin Eve that I was surprised at how flipping easy it was to do this integration. For all the dislike I have of isomorphic applications this was painless. The prototype application near instantly deployed to the connected phone and we were on our way.</p>
+
+<p>Simply allowing the user to set their name was the first step.</p>
+
+  </article>
+  <hr />
+</section>
+
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+      <p>The author (that's me) of the weblog is a professional programmer and published writer. This is my personal website where I write things and show off current projects. I'm an avid role-playing game enthusiast with a heavy background in table top games like Dungeons & Dragons, F.A.T.E., and more. When I'm not trying to combine the two things I love I write about them here. Otherwise you can find me on <a href="https://mastodon.social/@krainboltgreene">Mastodon 🐘</a> or you can find me on <a href="https://github.com/krainboltgreene">Github 🐈</a>. I would love to hear from you.
+</p>
+    
+     © 0001    ·  Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>. 
+  </section>
+</footer>
+
+    </main>
+
+    
+
+  </body>
+
+</html>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kurtis Rainbolt-Greene&#39;s Web Log</title>
+    <link>https://kurtis.rainbolt-greene.online/</link>
+    <description>Recent content on Kurtis Rainbolt-Greene&#39;s Web Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2005-2018 Kurtis Rainbolt-Greene</copyright>
+    
+	<atom:link href="https://kurtis.rainbolt-greene.online/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kurtis.rainbolt-greene.online/contract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/contract/</guid>
+      <description>This Program Development Agreement is dated June 6, 2012, and is between (the “Developer”) and (the “Client”). This Agreement is a contract that defines the scope of programming services that the Developer will provide to the Client in return for a fee.  The parties agree as follows:    ​Definitions.​ Each of the following terms has the meaning assigned to it.   Agreement means this Program Development Agreement, as amended from time to time.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kurtis.rainbolt-greene.online/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/resume/</guid>
+      <description>Kurtis Rainbolt-Greene I&amp;rsquo;ve been writing software for the last 12 years and professionally working as a software engineer for the last 10 years. I have worked on large web applications and small web applications, as a salaried full-time employee and a contract engineer.
+You can find my Github at this link and my LinkedIn here at this link
+What I can do I primarily have experience in Ruby and JavaScript as a senior full stack engineer having worked on both frontend features, backend features, data processing, and devops.</description>
+    </item>
+    
+    <item>
+      <title>An ORM born from my frustration with the status quo</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/an-orm-born-from-my-frustration-with-the-status-quo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/an-orm-born-from-my-frustration-with-the-status-quo/</guid>
+      <description>The idea behind this ORM is it mimics Ember.js&amp;rsquo;s object existence model. That is, when Ember.js expects an object to exist and it doesn&amp;rsquo;t it will provide a skeleton version with the basic needed functionality.
+The idea is that you start off with a class that receives the model behavior set. When and if it needs a: serializer, normalizer, sanitizer, validator, or deserializer it can come up with one on the fly if the environment hasn&amp;rsquo;t defined one.</description>
+    </item>
+    
+    <item>
+      <title>An ORM born from my frustration with the status quo</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/developers-are-harmed-by-symbols/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/developers-are-harmed-by-symbols/</guid>
+      <description>Note: If you&amp;rsquo;re reading this and have English as a second language I want to apologize up front if I come off as saying something that sounds like &amp;ldquo;English is the best for programming&amp;rdquo;. There is nothing to my knowledge that makes English good for programming, but instead I make this commentary because I only know English. If I only knew Spanish or French I would probably have that in place of English.</description>
+    </item>
+    
+    <item>
+      <title>An old tale</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/an-old-tale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/an-old-tale/</guid>
+      <description>He walked for as long as the light of day shined in the skies. I watched the mad vagrant cross from street to alley way and back. His tattered cloak protected him from the bright sun, but not the jeers of children. His worn boots protected his feet from the sharp rocks, but not the hooves of horses or the mail boots of the militia. I followed the staggering fool from the library entrance all the way to the slums of the eastern city and I knew not why.</description>
+    </item>
+    
+    <item>
+      <title>Colossus: Cold Steel</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/colossus-cold-steel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/colossus-cold-steel/</guid>
+      <description>The Metal Colossus
+Not like the brazen giant of Earth fame,
+With conquering limbs astride from star to star;
+Here at our meteor-washed, Jupiter Gates shall stand
+A mighty warrior with a fusion cell, whose laser
+Is the imprisoned lightning, and his name
+Father of Lions. From his beacon-hand
+Glows system-wide welcome; his fierce eyes command
+The warp-bridged station that twin moons frame.
+&amp;ldquo;Keep, ancient nations, your storied pomp!&amp;rdquo; cries he</description>
+    </item>
+    
+    <item>
+      <title>Dark King</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/dark-king/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/dark-king/</guid>
+      <description>His voice got all craggy like, and he thrust his pipe with the vigorous emphasis, &amp;ldquo;Muah father was told by his father. His father was told by his father. My great-great-great grand-mother spun this tale to him, &amp;lsquo;cus his father was struck down by a carp!&amp;rdquo; The children all shuddered at the thought, &amp;ldquo;But the story goes like this, with some minor changes and additions&amp;hellip;&amp;rdquo; The room went dark, his eyes glowed, there were no words from anyone but the red bearded bard.</description>
+    </item>
+    
+    <item>
+      <title>Docker For Development (Rails Edition)</title>
+      <link>https://kurtis.rainbolt-greene.online/essays/docker-for-development-rails-edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/essays/docker-for-development-rails-edition/</guid>
+      <description>On-boarding, the process of bringing a new worker into the fold, is often the hard part in starting at a company. Usually you are sat in front of a company computer and given a wiki link, GitHub repository, or maybe just an email with the steps for setting up your machine. If you’re lucky it’s been updated in the last year. We have the tools to do this better now and I want to explore them with you.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Padrino</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/exploring-padrino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/exploring-padrino/</guid>
+      <description>I&amp;rsquo;ve finally decided to test the &amp;ldquo;Padrino&amp;rdquo; waters again. I&amp;rsquo;ve heard a lot of good things about it lately, and a recent benchmark blew my fucking mind. So here I am, looking at the website, in my terminal, and with an editor open. A word about Padrino first: It&amp;rsquo;s not an MVC framework, despite what the website says and how familiar that architecture feels. It&amp;rsquo;s actually a PAC, and it would do you well to remember this when using Padrino.</description>
+    </item>
+    
+    <item>
+      <title>Functional View Trees with State</title>
+      <link>https://kurtis.rainbolt-greene.online/essays/functional-view-trees-with-state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/essays/functional-view-trees-with-state/</guid>
+      <description>So when it comes to doing functional programming for the web there&amp;rsquo;s really only one thing that&amp;rsquo;s been bothering me lately: Rendering views with state. I&amp;rsquo;ll explain with the following example:
+import {main} from &amp;quot;snabdom-helpers&amp;quot; import {section} from &amp;quot;snabdom-helpers&amp;quot; import {footer} from &amp;quot;snabdom-helpers&amp;quot; import {header} from &amp;quot;snabdom-helpers&amp;quot; function navigation ({name}) { return header({ content: `Hello ${name}.` }) } function frontPage () { return section({ content: &amp;quot;Welcome to the front page&amp;quot; }) } function information () { return footer({ content: &amp;quot;Check me out on mastodon.</description>
+    </item>
+    
+    <item>
+      <title>Functional View Trees with State (Solved)</title>
+      <link>https://kurtis.rainbolt-greene.online/essays/functional-view-trees-with-state-solved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/essays/functional-view-trees-with-state-solved/</guid>
+      <description>In a previous blog post I lamented about having difficulty figuring out how to handle view trees where some nodes needed complete access to state. In a spurt of brain power I figured out a rather eloquent solution that doesn&amp;rsquo;t involve global stores! So again, consider this last example:
+import {main} from &amp;quot;snabdom-helpers&amp;quot; import {section} from &amp;quot;snabdom-helpers&amp;quot; import {footer} from &amp;quot;snabdom-helpers&amp;quot; import {header} from &amp;quot;snabdom-helpers&amp;quot; import {p} from &amp;quot;snabdom-helpers&amp;quot; function authorSignature ({author: {name, email}}) { return p({ content: `My name is ${name} and my email is ${email}` }) } function navigation ({name}) { return header({ content: `Hello ${name}.</description>
+    </item>
+    
+    <item>
+      <title>Hello Eve!</title>
+      <link>https://kurtis.rainbolt-greene.online/letters/hello-eve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/letters/hello-eve/</guid>
+      <description>Hey Eve!
+It&amp;rsquo;s been a long time since I sent you any mail, but I think this is a good one. I loved legos as a child and my parents managed to get me quite a few sets. I remember playing with one of my childhood friends and inventing with him a complex role-palying strategy game involving them. In the package you&amp;rsquo;re getting this from are two beginner lego sets. I hope you find them enjoyable, because I enjoyed getting them for you!</description>
+    </item>
+    
+    <item>
+      <title>Hello Eve, I&#39;ve got hobbies!</title>
+      <link>https://kurtis.rainbolt-greene.online/letters/hello-eve-ive-got-hobbies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/letters/hello-eve-ive-got-hobbies/</guid>
+      <description>Hey Eve!
+I want to talk about the kinds of things I did as a kid for fun. This isn&amp;rsquo;t all I&amp;rsquo;ve played or done, but it&amp;rsquo;s a good chunk.
+My first video game was on the Apple II. A cell-based 2D shooter Star Wars game. I don&amp;rsquo;t think I ever learned the name. I was about five years old. It was our family&amp;rsquo;s first computer. My father won it from a grocery store lottery.</description>
+    </item>
+    
+    <item>
+      <title>Hero&#39;s Call</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/heros-call/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/heros-call/</guid>
+      <description>Call For Heroes A game based in a original fantasy setting. Players will be either Heroes or Villains in the Two Forest Village, a budding area of both mirth and dread. The Empire Gerbani is drowning in its own misery and weariness. The soldiers fight on two fronts, at the deserts to the south where the prospect of gold and riches drew the lecherous eyes of kings and nobles looking to finance the war to the west.</description>
+    </item>
+    
+    <item>
+      <title>How I learned a little about databases</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/how-i-learned-a-little-about-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/how-i-learned-a-little-about-databases/</guid>
+      <description>I&amp;rsquo;ve been programming about three years now with most of my work done in web development. A serious part of web development work is with databases. You store user information, statistics, scraped data, and anything else that&amp;rsquo;s important enough to be persisted in a database. It&amp;rsquo;s an important and yet often marginalized side of modern web development.
+My first real language was Ruby and so far it remains the steadfast tool that I use when I need to build a solution to a problem.</description>
+    </item>
+    
+    <item>
+      <title>I am learning Rails</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/i-am-learning-rails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/i-am-learning-rails/</guid>
+      <description>In the last two weeks I had decided to learn Rails. I&amp;rsquo;ve always had the resources to learn, but I&amp;rsquo;ve always found something else distracting to do. In meeting with other local developers at the Eugene, Oregon Web Developer Meetup (very creative name) I talked with at least three Rails developers with jobs developing in Rails locally. This inspired me to learn.
+Yet again I found myself distracted by something shiny and less boring: Padrino, a Rails substitute built on my favorite microframework Sinatra.</description>
+    </item>
+    
+    <item>
+      <title>I don&#39;t like file systems</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/i-dont-like-file-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/i-dont-like-file-systems/</guid>
+      <description>I&amp;rsquo;ve always been someone who is critical of how computer filesystems are shaping up these days. I think my biggest contention is that these developers can&amp;rsquo;t come up with a memorable name at all. Most people who care about this topic will shrug that off as a small thing (If they don&amp;rsquo;t suggest it&amp;rsquo;s a feature).
+Which is fine by me because I have a ton of ammo left to throw at these things.</description>
+    </item>
+    
+    <item>
+      <title>I give up I need to learn functional programming</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/i-give-up-i-need-to-learn-fp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/i-give-up-i-need-to-learn-fp/</guid>
+      <description>Alright. Fine. I finally give in. I need to learn a functional programming language. I&amp;rsquo;ve tried before and given up. First I tried Erlang and it was too complex and strange. Then I tried Haskell and it went from simple to crazy. Then I picked up Clojure and I was like &amp;ldquo;Woah. Verbose!&amp;rdquo;
+Learning Ruby has really punched a hole in my mind. Ruby was my first language and has really spoiled me.</description>
+    </item>
+    
+    <item>
+      <title>I want to help build</title>
+      <link>https://kurtis.rainbolt-greene.online/essays/i-want-to-help-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/essays/i-want-to-help-build/</guid>
+      <description>There are a lot of good tech startup ideas that get passed up because of biases, privileges, and bigotry. I want to assist those people who have a hard time being heard in the tech world. For the next six months I&amp;rsquo;ll be available to any person of color, trans, woman, and/or non-neurotypical entrepreneur. The goal will be to assist in building a prototype over the span of two weeks.</description>
+    </item>
+    
+    <item>
+      <title>Iplo: A Written Language</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/iplo-a-written-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/iplo-a-written-language/</guid>
+      <description>On a lark I decided to design my own alphabet. I had no prior experience, but it I figured it would be fun to theorycraft. I had these goals:
+ Simple for the machines Learn tricks from machine languages Parsable even with small print Contexts like sarcasm  Here&amp;rsquo;s the template for each character:
+ ◌ ◌ ◌ □ □ □ □ □ □ □ □ □ ◌ □ ◌  Here&amp;rsquo;s an example character:</description>
+    </item>
+    
+    <item>
+      <title>Looking Glass</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/looking-glass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/looking-glass/</guid>
+      <description>One of the newer projects I&amp;rsquo;ve been working on lately is what I call Looking Glass. The Looking Glass project is a script written in the Ruby programming language. The script takes content and keys and produces HTML output. The keys are defined blocks that contain regular expressions and style properties paired with values. Many people will instantly recognize the similarity between a Glass list and Cascading Style Sheets. Here&amp;rsquo;s an example of two key blocks.</description>
+    </item>
+    
+    <item>
+      <title>Loving Io is Painful</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/loving-io-is-painful/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/loving-io-is-painful/</guid>
+      <description>Recently (as in within the last two months) I&amp;rsquo;ve switched almost completely from doing things in Ruby to doing things in Io. Well, at least for hobby projects. Io simply isn&amp;rsquo;t at the point where it can be used for the kinds of things I do. There&amp;rsquo;s no equivalent Rails or even Sinatra. While I&amp;rsquo;m working on one there still isn&amp;rsquo;t a lib manager that doesn&amp;rsquo;t have &amp;ldquo;testing&amp;rdquo; or &amp;ldquo;documentation&amp;rdquo; in the todo list.</description>
+    </item>
+    
+    <item>
+      <title>My (early) thoughts on CSS</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/my-thoughts-on-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/my-thoughts-on-css/</guid>
+      <description>I know so very little about the world, the universe, and the people around me. With that said I can be confidant in saying that I know that Cascading Style Sheet syntax is terrible.
+If you&amp;rsquo;re reading this blog and don&amp;rsquo;t know what Cascading Style Sheets (CSS) are then I here&amp;rsquo;s a little introduction:
+ Developed by: World Wide Web Consortium
+ Initially Released: 17 December 1996, or 13 years ago.</description>
+    </item>
+    
+    <item>
+      <title>My imaginary rack replacement</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/my-imaginary-rack-replacement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/my-imaginary-rack-replacement/</guid>
+      <description>One day I was really frustrated the ruby package rack, so I imagined what a better rack would look like.
+require &amp;quot;webstack&amp;quot; require &amp;quot;webstack-throttle&amp;quot; require &amp;quot;webstack-protection&amp;quot; require &amp;quot;webstack-tempfile_manager&amp;quot; require &amp;quot;webstack-deserializer&amp;quot; require &amp;quot;webstack-dispatcher&amp;quot; require &amp;quot;webstack-content_length_setter&amp;quot; require &amp;quot;webstack-content_type_setter&amp;quot; require &amp;quot;webstack-accept_setter&amp;quot; require &amp;quot;webstack-serializer&amp;quot; # Each cycle calls this server block. # The request and response objects are semi-mutable, see: webstack2.rb. Webstack::Server.new do |stack, request, response| Throttle::Middleware.(request) Protection::Middleware.(request) TempfileManager::Middleware.(request) Deserializer::Middleware.(request) Dispatcher.(stack) ContentLengthSetter::Middleware.(response) ContentTypeSetter::Middleware.(response) AcceptSetter::Middleware.(response) Serializer::Middleware.</description>
+    </item>
+    
+    <item>
+      <title>Mythoas API Framework (Ruby Edition)</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/mythoas-api-framework-ruby-edition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/mythoas-api-framework-ruby-edition/</guid>
+      <description>If you&amp;rsquo;re visiting my blog you might already be familiar with my opinion on web API standards and practices. If not I&amp;rsquo;ll give you the quick bullet points:
+ I love [HTTP][HTTP] If I have a choice the server is going to be behaving according to the [REST][REST] constraints Furthermore I wildly prefer using the constraints defined for [HATEOS]() The format of the messages will probably be in JSON The object bodies will follow the [application/vnd.</description>
+    </item>
+    
+    <item>
+      <title>Of Grand Importance</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/of-grand-importance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/of-grand-importance/</guid>
+      <description>The bard plucked at his lute with a zen like focus, &amp;ldquo;We continue the tale from where we left off. Can any of you tell me what happened last?&amp;rdquo; Many of the children squealed and raised their tiny hands. &amp;ldquo;Oh! The Prince died!&amp;rdquo; &amp;ldquo;No that hasn&amp;rsquo;t happened yet, stupid!&amp;rdquo; &amp;ldquo;I know! The smelly Zed left Ruby for that other place.&amp;rdquo; &amp;ldquo;Python!&amp;rdquo; Holding up his worn hands the bard signaled for the children to calm down, &amp;ldquo;Correct!</description>
+    </item>
+    
+    <item>
+      <title>OpenStruct sucked, I fixed it</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/openstruct-sucked-and-i-fixed-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/openstruct-sucked-and-i-fixed-it/</guid>
+      <description>For reference I wrote this article about a year ago according to the commits at the astruct repo. I never submitted it because I got frustrated with the Ruby MRI source contribution process. astruct could definitely use some cleaning up, but actually runs much better in 2.1.0 so the details still stand.
+ Hello Ruby Core,
+In this Pull Request I have made a series of changes that I would like to be added to the Ruby stdlib library ostruct.</description>
+    </item>
+    
+    <item>
+      <title>Postgres Client interface</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/postgres-client-interface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/postgres-client-interface/</guid>
+      <description>require &amp;quot;postgresql&amp;quot; client = PostgreSQL::Client.new(url: ENV[&amp;quot;POSTGRESQL_URL&amp;quot;]) table = PostgreSQL::Table.new(client: client, name: &amp;quot;accounts&amp;quot;) query = PostgreSQL::Query::Select.new(fields: [&amp;quot;id&amp;quot;, &amp;quot;name&amp;quot;], table: table, where: { &amp;quot;name&amp;quot; =&amp;gt; &amp;quot;?&amp;quot; }, parameters: [&amp;quot;%urtis%&amp;quot;]) # query.to_s #=&amp;gt; SELECT id, name FROM accounts WHERE name = &amp;quot;%urtis%&amp;quot;; request = PostgreSQL::Request.new(client: client, query: query) # request.to_a #=&amp;gt; [{ id: 4, name: &amp;quot;Kurtis Rainbolt-Greene&amp;quot;}, { ... }] query2 = PostgreSQL::Query::Update.new(fields: { &amp;quot;name&amp;quot; =&amp;gt; &amp;quot;James Rainbolt-Greene&amp;quot;, &amp;quot;age&amp;quot; =&amp;gt; 42 }, table: table, where: { &amp;quot;id&amp;quot; =&amp;gt; 4 }) # query2.</description>
+    </item>
+    
+    <item>
+      <title>Rails Controllers and Actions</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/rails-controllers-and-actions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/rails-controllers-and-actions/</guid>
+      <description>Deep down somewhere it&amp;rsquo;s always bothered me how Rails handles the concept of Controllers in it&amp;rsquo;s custom MVC framework. If you don&amp;rsquo;t know I&amp;rsquo;ll attempt to explain: In Rails you have a router. The router decides where requests go based on some meta-method magic. For example lets take this Rails routes.rb file:
+Blog::Application.routes.draw do resources :ideas resources :articles end  Rails takes these instructions and understands a few things from it:</description>
+    </item>
+    
+    <item>
+      <title>Top World</title>
+      <link>https://kurtis.rainbolt-greene.online/fiction/top-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/fiction/top-world/</guid>
+      <description>&amp;ldquo;The top world was grey. A dead grey like the skin of my father. The various top world blankets rolled across the horizon and back. An invisible sea above the teams head. None of us were prepared for this sort of adventure, many had never had so much as a peek of the outside. Most puked, some cried, and others like myself simply stood silent. We were seven outcasts, charged by the King to find fortune in another mountain as punishment for our wrong doings.</description>
+    </item>
+    
+    <item>
+      <title>Why i created emailspy</title>
+      <link>https://kurtis.rainbolt-greene.online/archive/why-i-created-emailspy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kurtis.rainbolt-greene.online/archive/why-i-created-emailspy/</guid>
+      <description>The Setup It&amp;rsquo;s Wednesday night and I&amp;rsquo;m working on a client&amp;rsquo;s project. I&amp;rsquo;m making the app use S3 to store assets instead of being compiled by me and on Heroku. I notice that the production emails are wonky, specifically with the images and styles. I grab letter_opener and run development.
+Suddenly, an error! I check out the backtrace and see that it&amp;rsquo;s actually something wrong in letter_opener. I grab the meaningful lines and start googling.</description>
+    </item>
+    
+  </channel>
+</rss>
