@@ -3,7 +3,7 @@ title: "Functional View Trees with State (Solved)"
 draft: false
 ---
 
-[In a previous blog post I lamented about having difficulty figuring out how to handle view trees where some nodes needed complete access to state](https://kurtis.rainbolt-greene.online/functional-view-trees-with-state.html). In a spurt of brain power I figured out a rather eloquent solution that doesn't involve global stores! So again, consider this last example:
+[In a previous blog post I lamented about having difficulty figuring out how to handle view trees where some nodes needed complete access to state](https://www.kurtis.rainbolt-greene.online/functional-view-trees-with-state.html). In a spurt of brain power I figured out a rather eloquent solution that doesn't involve global stores! So again, consider this last example:
 
 ``` javascript
 import {main} from "snabdom-helpers"

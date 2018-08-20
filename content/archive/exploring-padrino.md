@@ -282,7 +282,7 @@ So it's time to get back to the original task, of seeding the database:
 krainboltgreene on MacMini.local in ~/repo/ruby/padrino/cloudname
 $ padrino rake seed
 => Executing Rake seed ...
-Which email do you want use for logging into admin? kurtisrainboltgreene@gmail.com
+Which email do you want use for logging into admin? kurtis@rainbolt-greene.online
 Tell me the password to use: ***
 
 Sorry but some thing went wrong!
@@ -296,13 +296,13 @@ What an interesting twist, having a command line client to handle the admin acco
 krainboltgreene on MacMini.local in ~/repo/ruby/padrino/cloudname
 $ padrino rake seed
 => Executing Rake seed ...
-Which email do you want use for logging into admin? kurtisrainboltgreene@gmail.com
+Which email do you want use for logging into admin? kurtis@rainbolt-greene.online
 Tell me the password to use: hqw7KsJ3cgfu9KsV8rP66xrcN
 
 =================================================================
 Account has been successfully created, now you can login with:
 =================================================================
-   email: kurtisrainboltgreene@gmail.com
+   email: kurtis@rainbolt-greene.online
    password: hqw7KsJ3cgfu9KsV8rP66xrcN
 =================================================================
 ```
