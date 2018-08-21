@@ -2,14 +2,9 @@ baseURL = "https://www.kurtis.rainbolt-greene.online"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Kurtis Rainbolt-Greene's Web Log"
-copyright = "&copy; 2005-2018 Kurtis Rainbolt-Greene"
-theme = "coder"
+theme = "plaintext"
 paginate = 1000
 
-[params]
-  footercontent = """
-The author (that's me) of the weblog is a professional programmer and published writer. This is my personal website where I write things and show off current projects. I'm an avid role-playing game enthusiast with a heavy background in table top games like Dungeons & Dragons, F.A.T.E., and more. When I'm not trying to combine the two things I love I write about them here. Otherwise you can find me on <a href="https://mastodon.social/@krainboltgreene">Mastodon 🐘</a> or you can find me on <a href="https://github.com/krainboltgreene">Github 🐈</a>. I would love to hear from you.
-"""
 [[menu.main]]
   name = "Essays"
   weight = 1

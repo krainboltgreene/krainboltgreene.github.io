@@ -1,0 +1,25 @@
+name = "plaintext"
+license = "MIT"
+licenselink = "https://github.com/krainboltgreene/weblog/blob/master/themes/plaintext/LICENSE.md"
+description = "Extremely simple"
+homepage = "https://github.com/krainboltgreene/weblog"
+tags = [
+  "blog",
+  "minimal",
+  "minimalist",
+  "responsive",
+  "simple",
+  "clean"
+]
+features = [
+  "analytics",
+  "favicon",
+  "pagination",
+  "single-column",
+  "syntax-highlighting"
+]
+min_version = "0.45.1"
+
+[author]
+  name = "Kurtis Rainbolt-Greene"
+  homepage = "https://www.kurtis.rainbolt-greene.online"

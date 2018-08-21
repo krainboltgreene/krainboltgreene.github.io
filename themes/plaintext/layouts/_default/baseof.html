@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+    {{ with .Site.Params.keywords }}<meta name="keywords" content="{{ . }}">{{ end }}
+
+    <base href="{{ .Site.BaseURL }}">
+
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <link rel="stylesheet" href="https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.4/tufte.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/themes/prism.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/themes/prism-twilight.min.css" />
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+
+    <link rel="icon" type="image/png" href="{{ "/images/favicon-32x32.png" | absURL }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{ "/images/favicon-16x16.png" | absURL }}" sizes="16x16">
+
+    {{ if .RSSLink }}
+      <link rel="alternate" href="{{ .RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}" />
+      <link rel="feed" href="{{ .RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}" />
+    {{ end }}
+
+    {{ .Hugo.Generator }}
+  </head>
+
+  <body>
+    <main>
+      {{ partial "header.html" . }}
+
+      {{ block "content" . }}{{ end }}
+      <hr />
+      {{ partial "footer.html" . }}
+    </main>
+
+    {{ template "_internal/google_analytics.html" . }}
+
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$','$']],
+          displayMath: [['$$','$$']],
+          processEscapes: true,
+          processEnvironments: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+          TeX: { extensions: ["AMSmath.js", "AMSsymbols.js"] }
+        }
+      });
+      MathJax.Hub.Queue(function() {
+        // Fix <code> tags after MathJax finishes running. This is a
+        // hack to overcome a shortcoming of Markdown. Discussion at
+        // https://github.com/mojombo/jekyll/issues/199
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i = 0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+      });
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.15.0/prism.min.js"></script>
+  </body>
+</html>

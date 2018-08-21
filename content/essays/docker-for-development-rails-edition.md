@@ -30,7 +30,7 @@ Presumably you’ve got a computer right now and as long as it’s a Windows or 
 The express purpose of this command in this context is to create the development intermediary. You’ll do this by running:
 
 
-```
+``` shell
 $ docker-machine create -d virtualbox difference-engineers
 ```
 
@@ -38,7 +38,7 @@ For us this creates a specifically named virtual machine on top of virtualbox. I
 
 The next steps will seem very familiar to anyone who used boot2docker-cli:
 
-```
+``` shell
 $ eval "$(docker-machine env difference-engineers)"
 ```
 
@@ -55,7 +55,7 @@ There are two ways to use Docker:
 
 I think the future and mature way to use Docker is the latter. If like me you agree then you’re going to need docker-compose. Not only is it a tool for managing the web of containers it’s also the gateway for the docker command. Anything the docker command can do so also can the docker-compose, but with one small caveat: Most of the time you have to specify the container name. For example, these two commands are equivalent:
 
-```
+``` shell
 $ docker run /bin/bash
 $ docker run web bin/bash
 ```
@@ -99,7 +99,7 @@ memcached:
 
 The root keys of this document are all container names. Here I’ve defined three specific containers that will be set as environment variables:
 
-```
+``` shell
 APPLICATION_MEMCACHED_1_PORT=tcp://172.17.0.2:11211
 MEMCACHED_PORT=tcp://172.17.0.2:11211
 MEMCACHED_1_PORT=tcp://172.17.0.2:11211
@@ -113,7 +113,7 @@ There are going to be a ton more of these, but there are the important values. Y
 
 Further you’ll find the `/etc/hosts` file has been mutated and they include some great shortcuts:
 
-```
+``` terminal
 $ cat /etc/hosts
 172.17.0.5  6896242e97ed
 127.0.0.1  localhost
@@ -205,7 +205,7 @@ This is the base image it builds from. Many companies will want to pick official
 
 **The ENV Instruction**
 
-```
+``` dockerfile
 ENV DEBIAN_FRONTEND noninteractive
 ENV SOURCE "/usr/src/..."
 WORKDIR $SOURCE
@@ -215,7 +215,7 @@ Here you’ll define some environment variables for the build process. As discus
 
 **The RUN Instruction**
 
-```
+``` dockerfile
 # Installing build dependencies
 RUN echo "Installing build dependencies" ...
 
@@ -325,7 +325,7 @@ It’s very apparent that while docker is another great contender for devops it�
 
 Here’s what I’d like to see out of the future:
 
-```
+``` dockerfile
 AUTHOR "Kurtis Rainbolt-Greene <kurtis@rainbolt-greene.online>"
 
 MUTATE docker/machine
@@ -370,7 +370,7 @@ If it’s not terribly clear the `MUTATE` instructions allow third parties to ad
 
 The cron job described above to bring back generated assets looks like this:
 
-```
+``` shell
 docker-machine ssh "(crontab -l ; echo "0 * * * * cp -f /rsync/usr/src/application/Gemfile.lock ${pwd}") | sort - | uniq - | crontab -"
 ```
 

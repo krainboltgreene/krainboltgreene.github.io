@@ -1,0 +1,11 @@
+<nav style="padding: 5rem 0;">
+  <h1 class="title">{{ .Title }}</h1>
+  <ol>
+    {{ range .Paginator.Pages }}
+      <li>
+        <a href="{{ .URL }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ol>
+  {{ partial "pagination.html" . }}
+</nav>
