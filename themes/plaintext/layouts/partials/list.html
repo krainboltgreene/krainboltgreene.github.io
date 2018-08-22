@@ -1,5 +1,7 @@
-<nav style="padding: 5rem 0;">
-  <h1 class="title">{{ .Title }}</h1>
+<nav>
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
   <ol>
     {{ range .Paginator.Pages }}
       <li>
