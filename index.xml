@@ -21,11 +21,20 @@
     
     <item>
       <title></title>
+      <link>https://www.kurtis.rainbolt-greene.online/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.kurtis.rainbolt-greene.online/projects/</guid>
+      <description> Projects  Poutineer Lacqueristas Ghost Ryder Fate Core Desktop Seditor Snippets Bountycall  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://www.kurtis.rainbolt-greene.online/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.kurtis.rainbolt-greene.online/resume/</guid>
-      <description>Kurtis Rainbolt-Greene I&amp;rsquo;ve been writing software for the last 12 years and professionally working as a software engineer for the last 10 years. I have worked on large web applications and small web applications, as a salaried full-time employee and a contract engineer.
+      <description>Kurtis Rainbolt-Greene I&amp;rsquo;ve been writing software for the last 13 years and professionally working as a software engineer for the last 11 years. I have worked on large web applications and small web applications, as a salaried full-time employee and a contract engineer.
 You can find my Github at this link and my LinkedIn here at this link
 What I can do I primarily have experience in Ruby and JavaScript as a senior full stack engineer having worked on both frontend features, backend features, data processing, and devops.</description>
     </item>
