@@ -7,7 +7,7 @@ You can find [my Github at this link](https://github.com/krainboltgreene) and [m
 
 ## What I can do
 
-I primarily have experience in **Ruby** and **JavaScript** as a senior full stack engineer having worked on both frontend features, backend features, data processing, and devops. I have extensive experience with **Rails** and a lot of indepth work experience using **React** and **Redux**. I have a good understanding of **GraphQL** (via Netflix's Falcor, Facebook's Relay, and Apollo). I have a very good working grasp of **PostgreSQL**, but I have also used and worked in environments with MySQL and MongoDB.
+I primarily have experience in **Ruby** and **JavaScript** as a senior full stack engineer having worked on both frontend features, backend features, data processing, and devops. I have extensive experience with **Rails** and a lot of in-depth work experience using **React** and **Redux**. I have worked significant with all sorts of JSON-based HTTP APIs including contributing and implementing tooling for JSON:API (the specification and standard). I have a good understanding of **GraphQL** (via Netflix's Falcor, Facebook's Relay, Apollo, and my own implementation). I have a very good working grasp of **PostgreSQL**, but I have also used and worked in environments with MySQL and MongoDB.
 
 
 ## Where I want to work
@@ -51,12 +51,22 @@ I have contributed to a significant number of open source projects of the last 1
 
 These are the companies I have worked for that bear mentioning:
 
-  - GOAT, as a **Senior Backend Engineer** for *one year*. I helped them become significantly more performant for their high-end periods, cleaned up older parts of their code, whipped into shape their developer onboarding experience, and also worked significantly on a "power tool" for a certain set of their users that had to deal with high volume. I faciliated in the education of my peers in areas they lacked and helped document any processes that were stuck in people's heads. I first modified and then eventually refactored the shipping logic, saving/making large amounts of money for the company.
+  - GOAT, as a **Senior Backend Engineer** for *one year*. I worked on making GOAT, all of it's services, significantly more performant for their high-yield commerce periods, worked on bringing their infrastructure and applications up to date with all the latest libraries, toolings, and framework, whipped into shape their developer on-boarding experience,  worked on a “power tool” for their power-sellers that dealt with a high volume of data. I facilitated in the education of my peers in areas they lacked and while also writing documentation for any processes that were stuck in their heads. I first modified and then eventually refactored the shipping logic, saving/making large amounts of money for the company.
   - Laurel & Wolf, as a **Senior Software Engineer** for *two years*. I wrote a significant amount of code that is currently running on that platform, including: An advanced matching system, many heavily used API endpoints, an activity monitoring log, ETL tooling, and an advanced coupon/credit/giftcard promotion system. Most of my early work there was in Ruby, but later parts were frontend development in Javascript.
-  - Dollar Shave Club, as a **Contract Developer**. I worked to help them transition from their Magento platform to a Rails platform. I largely did conversion tasks and teaching materials.
-  - Nation Builder, as a **Software Engineer**. My largest contribution was a new permission system that managed who could read, write, and in certain cases "execute" (like send an email) on documents, data, and mangement tooling.
-  - Makindo, as a **Contact Developer**. I worked primarily on making sure the old platform still worked and giving an in-depth analysis of the previous developer's work. A lot of refactoring and testing.
+  - Dollar Shave Club, as a **Contract Developer** for *three months*. I worked to help them transition from their Magento platform to a Rails platform. I largely did conversion tasks and teaching materials.
+  - Webrand, as a **Contract Developer** for *one year*. I built out the entire ecommerce application as well as a tool for designing t-shirts in the browser.
+  - Nation Builder, as a **Software Engineer**. My largest contribution was a new permission system that managed who could read, write, and in certain cases "execute" (like send an email) on documents, data, and management tooling. I also built out a prototype system for syncing designer themes into our content management system.
+  - Makindo, as a **Contact Developer**. I built out an entire platform and infrastructure for crawling Twitter, Linkedin, Facebook, and more for information used in telemarketing operations by large car marketing corporations. We built out a data analysis platform and machine learning tool (very primitive) as well as a tool for observing the system.
   - iSeatz, as a **Software Engineer**. I was on the foundation team for the new contract they had with American Express to build their new travel website. Specifically I worked on the initial application and then further on the Dynamic Packaging team. I also worked heavily with the outsourced component team.
+
+I also worked at:
+
+  - Zinc Made as a **Senior Software Engineer**.
+  - Kissmetrics as a **Software Engineer**.
+  - Connect For A Cause as a **Software Engineer**.
+  - Susco as a **Software Engineer**.
+  - Kinio as a **Contract Developer**.
+  - DECK Monitoring as a **Junior Developer**.
 
 
 ## What I have been a part of
