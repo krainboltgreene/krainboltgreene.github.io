@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+git add . &&
+git commit -m "$1" &&
+git push origin &&
+hugo &&
+cd public &&
+git add . &&
+git commit -m "$1" &&
+git push origin
+cd ..

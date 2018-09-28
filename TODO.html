@@ -1,0 +1,11 @@
+{{ with .Site.author }}
+  <meta name="author" content="{{ . }}">
+{{ end }}
+
+{{ with .Site.description }}
+  <meta name="description" content="{{ . }}">
+{{ end }}
+
+{{ with .Site.keywords }}
+  <meta name="keywords" content="{{ . }}">
+{{ end }}

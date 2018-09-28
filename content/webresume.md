@@ -1,8 +1,12 @@
+---
+layout: resume
+---
+
 # Kurtis Rainbolt-Greene
 
 I've been writing software for the last 13 years and professionally working as a software engineer for the last 11 years. I have been a part of a long list of companies and a wide range of teams: I have worked in backend engineering, frontend engineering, analytics engineering, and developer operation engineering roles. I have worked on large web applications and small web applications, as a salaried full-time employee and a contract engineer.I have worked hard to achieve my place in the programming community by working on Open Source software, and mentoring. I devote my free time to the art of programming and my work time to the development of business software.
 
-You can find [my Github at this link](https://github.com/krainboltgreene) and [my LinkedIn here at this link](https://www.linkedin.com/in/krainboltgreene)
+You can find my Github at [https://github.com/krainboltgreene](https://github.com/krainboltgreene) and my LinkedIn here at [https://www.linkedin.com/in/krainboltgreene](https://www.linkedin.com/in/krainboltgreene)
 
 
 ## What I can do
