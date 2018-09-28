@@ -63,7 +63,7 @@ These are the companies I have worked for that bear mentioning:
   - Makindo, as a **Contact Developer**. I built out an entire platform and infrastructure for crawling Twitter, Linkedin, Facebook, and more for information used in telemarketing operations by large car marketing corporations. We built out a data analysis platform and machine learning tool (very primitive) as well as a tool for observing the system.
   - iSeatz, as a **Software Engineer**. I was on the foundation team for the new contract they had with American Express to build their new travel website. Specifically I worked on the initial application and then further on the Dynamic Packaging team. I also worked heavily with the outsourced component team.
 
-I also worked at:
+I've also worked the following places:
 
   - Zinc Made as a **Senior Software Engineer**.
   - Kissmetrics as a **Software Engineer**.
