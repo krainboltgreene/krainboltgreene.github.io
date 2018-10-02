@@ -4,7 +4,7 @@ layout: resume
 
 # Kurtis Rainbolt-Greene
 
-I've been writing software for the last 13 years and professionally working as a software engineer for the last 11 years. I have been a part of a long list of companies and a wide range of teams: I have worked in backend engineering, frontend engineering, analytics engineering, and developer operation engineering roles. I have worked on large web applications and small web applications, as a salaried full-time employee and a contract engineer.I have worked hard to achieve my place in the programming community by working on Open Source software, and mentoring. I devote my free time to the art of programming and my work time to the development of business software.
+I've been writing software for the last 13 years and professionally working as a software engineer for the last 11 years. I have been a part of a long list of companies and a wide range of teams: I have worked in backend engineering, frontend engineering, analytics engineering, and developer operation engineering roles. I have worked on large web applications and small web applications, as a salaried full-time employee and a contract engineer. I have worked hard to achieve my place in the programming community by working on Open Source software, and mentoring junior engineers. I devote my work time to the development of business software and my free time to the art of programming.
 
 You can find my Github at [https://github.com/krainboltgreene](https://github.com/krainboltgreene) and my LinkedIn here at [https://www.linkedin.com/in/krainboltgreene](https://www.linkedin.com/in/krainboltgreene)
 
@@ -22,7 +22,7 @@ I primarily have experience in **Ruby** and **JavaScript** as a senior full stac
   - Portland, OR
   - New Orleans, LA
 
-I am also *extremely* open to remote work or freelance work and I have done so previously.
+I am also *extremely* open to remote work. I have worked in many remote positions in my career and with remote engineers.
 
 
 ## Who I want to work with
@@ -53,9 +53,7 @@ I have contributed to a significant number of open source projects of the last 1
 
 ## Where I have worked
 
-These are the companies I have worked for that bear mentioning:
-
-  - GOAT, as a **Senior Backend Engineer** for *one year*. I worked on making GOAT, all of it's services, significantly more performant for their high-yield commerce periods, worked on bringing their infrastructure and applications up to date with all the latest libraries, toolings, and framework, whipped into shape their developer on-boarding experience,  worked on a “power tool” for their power-sellers that dealt with a high volume of data. I facilitated in the education of my peers in areas they lacked and while also writing documentation for any processes that were stuck in their heads. I first modified and then eventually refactored the shipping logic, saving/making large amounts of money for the company.
+  - GOAT, as a **Senior Backend Engineer** for *one year*. I worked on making GOAT, all of it's services, significantly more performant for their high-yield commerce periods, worked on bringing their infrastructure and applications up to date with all the latest libraries, toolings, and framework, whipped into shape their developer on-boarding experience,  worked on a “power tool” for their power-sellers that dealt with a high volume of data. I facilitated in the education of my peers while also writing documentation for any processes. I first modified and then eventually refactored the shipping logic, saving/making large amounts of money for the company.
   - Laurel & Wolf, as a **Senior Software Engineer** for *two years*. I wrote a significant amount of code that is currently running on that platform, including: An advanced matching system, many heavily used API endpoints, an activity monitoring log, ETL tooling, and an advanced coupon/credit/giftcard promotion system. Most of my early work there was in Ruby, but later parts were frontend development in Javascript.
   - Dollar Shave Club, as a **Contract Developer** for *three months*. I worked to help them transition from their Magento platform to a Rails platform. I largely did conversion tasks and teaching materials.
   - Webrand, as a **Contract Developer** for *one year*. I built out the entire ecommerce application as well as a tool for designing t-shirts in the browser.
