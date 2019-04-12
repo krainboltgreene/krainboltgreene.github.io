@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/krainboltgreene
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.kurtis.rainbolt-greene.online
+  * I am krainboltgreene (https://keybase.io/krainboltgreene) on keybase.
+  * I have a public key ASB-Y7vazswvqFW600Q2UZkuOZ6KAz83SjCTmn5UrDJPYQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010114016277fe67a59244d09f4244818e5ec246da42125c250ca0e57b5b650fad6a0a",
+      "host": "keybase.io",
+      "kid": "01207e63bbdacecc2fa855bad3443651992e399e8a033f374a30939a7e54ac324f610a",
+      "uid": "87b9f67e7c0184a14d9abbbefd1b3a00",
+      "username": "krainboltgreene"
+    },
+    "merkle_root": {
+      "ctime": 1555047380,
+      "hash": "ba12f6a3b1b947bfaba1fc1478a8d54dd19ff2769bc663d461dc75177e2b25a33481e65aa109d67214dd183e952452f67e7e9b6b8391f8111d2daf2890154159",
+      "hash_meta": "741b770cb49fdfe9e1bc04abcae3141b2a80869a8c856571f83ef6e8a573509b",
+      "seqno": 5149449
+    },
+    "service": {
+      "entropy": "YUztuW4LUfWPnpBPpC36rDX0",
+      "hostname": "www.kurtis.rainbolt-greene.online",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.1"
+  },
+  "ctime": 1555047407,
+  "expire_in": 504576000,
+  "prev": "541532a7a7e06aed0aa3a7f844e2c3a53d50fecbd42096d5038e13208e6efffe",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfmO72s7ML6hVutNENlGZLjmeigM/N0owk5p+VKwyT2EKp3BheWxvYWTESpcCVMQgVBUyp6fgau0Ko6f4ROLDpT1Q/svUIJbVA44TII5u//7EIMHe30UwlmdomZKJtZJgjC8KPaxH9JGqZf5Rht4eBrRnAgHCo3NpZ8RA61aWkyCRoaQPTz8f5j3ZyGIP/nJW6LxHclDCh2Bq4V0r+yoUuFD3qLmyWL9NSU1q+Hhq6NbKPwQXGUa6jTZbAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBJMxXoGarWazyHLoiRX3UBkEO1uz6rSBg7ldfhIBOPZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/krainboltgreene
+
+==================================================================
+
