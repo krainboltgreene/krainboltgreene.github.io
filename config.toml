@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Kurtis Rainbolt-Greene's Web Log"
 theme = "plaintext"
 paginate = 1000
+staticDir = "static"
 
 [[menu.main]]
   name = "Essays"
