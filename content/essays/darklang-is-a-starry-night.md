@@ -1,5 +1,5 @@
 ---
-title: "Darklang is a Stary Night"
+title: "Darklang is a Starry Night"
 draft: false
 ---
 
