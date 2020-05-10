@@ -31,4 +31,6 @@ I give functions a sha and a linked history, so when you define the function `gr
 
 However, what I quickly realized is that I now have to handle functions my project doesn't own: What if the user wants to encrypt a payload? Base64 decode an input? What about functions that are generated via macros? Darklang doesn't have these problems because it's something new.
 
-These are the types of little geniuses that I've been enjoying about darklang. That said they have a rough road ahead of them. In fact when I talked about it with another engineer, the first thing they said was "Uh, no I don't want anyone else to manage my stack." I respect this person a lot so I casually brought up that they had recently moved from on-prem to hosted K3S precicely because they did want someone to manage their stack.
+These are the types of little geniuses that I've been enjoying about darklang. That said they have a rough road ahead of them. In fact when I talked about it with another engineer, the first thing they said was "Uh, no I don't want anyone else to manage my stack." I casually reminded them that they had recently moved from on-prem to hosted K3S precicely because they did want someone to manage their stack.
+
+I'm excited for darklang's future and further excited to see more little morsels of programming art from that team.
