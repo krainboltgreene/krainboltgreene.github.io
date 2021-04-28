@@ -1,0 +1,25 @@
+# TODO
+
+- media
+  - images/android-chrome-512x512.png (512x512)
+  - images/icon.png (192x192)
+  - images/open-graph.png (1200x630)
+  - images/tile.png (588x588)
+  - images/tile-wide.png (588x270)
+  - favicon.ico (48x48)
+  - favicon-16x16.png (16x16)
+  - favicon-32x32.png (32x32)
+- metadata
+  - humans.txt
+  - robots.txt
+  - site.webmanifest
+  - .htaccess
+  - browserconfig.xml
+- repository
+  - .github/
+  - .gitignore
+  - CONDUCT.md
+  - LICENSE.txt
+- tooling
+  - twitter og verification
+  - google analytics

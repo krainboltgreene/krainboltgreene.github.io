@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>{{page.title}} | {{site.title}}</title>
+  <meta name="description" content="{{site.description}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="{{page.title}} | {{site.title}}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{site.url}}/">
+  <meta property="og:image" content="{{site.url}}/images/open-graph.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="{{site.domain}}">
+  <meta property="twitter:url" content="{{site.url}}/">
+  <meta name="twitter:title" content="{{page.title}} | {{site.title}}">
+  <meta name="twitter:description" content="{{site.description}}">
+  <meta name="twitter:image" content="{{site.url}}/images/open-graph.png">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="images/icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family={{site.fonts}}&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.0-beta1/css/bootstrap-reboot.min.css" integrity="sha512-9izl9EqZBFXWjB6tx1F+4u2Sk2NZ5b9Sod4n1Gmc/7UYaX3lTWJFLcTq1/sDtcT8F1czVHe+4a99zpRVVZie3Q==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="styles/main.css">
+
+  <meta name="theme-color" content="{{site.theme_color}}">
+</head>
+
+<body>
+  {{content}}
+
+  <!-- <script defer src="scripts/main.js"></script> -->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics_id}}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{site.google_analytics_id}}');
+  </script>
+</body>
+
+</html>
