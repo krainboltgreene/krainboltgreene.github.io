@@ -16,7 +16,7 @@ I primarily have experience in **Elixir** (a year and some), **Ruby** (eleven to
 
 ## Where I want to work
 
-**I currently live in Portland, CA**. I am *only* open to remote work and have been working remotely for two years. I have worked in many remote positions in my career and with remote engineers.
+**I currently live in Portland, OR**. I am *only* open to remote work and have been working remotely for two years. I have worked in many remote positions in my career and with remote engineers.
 
 
 ## Who I want to work with
