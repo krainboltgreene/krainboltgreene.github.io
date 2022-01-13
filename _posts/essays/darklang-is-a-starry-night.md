@@ -1,5 +1,6 @@
 ---
 title: "Darklang is a Starry Night"
+layout: article
 ---
 
 Darklang genius in so many ways that it makes me actually frusted. Frankly I am jealous of Ellen Chisa & Paul Biggar's art.

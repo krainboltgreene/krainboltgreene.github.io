@@ -1,5 +1,6 @@
 ---
 title: "How I learned a little about databases"
+layout: article
 ---
 
 I've been programming about three years now with most of my work done in web development. A serious part of web development work is with databases. You store user information, statistics, scraped data, and anything else that's important enough to be persisted in a database. It's an important and yet often marginalized side of modern web development.

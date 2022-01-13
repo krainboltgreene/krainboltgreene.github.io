@@ -1,5 +1,6 @@
 ---
 title: "I am learning Rails"
+layout: article
 ---
 
 In the last two weeks I had decided to learn Rails. I've always had the resources to learn, but I've always found something else distracting to do. In meeting with other local developers at the Eugene, Oregon Web Developer Meetup (very creative name) I talked with at least three Rails developers with jobs developing in Rails locally. This inspired me to learn.

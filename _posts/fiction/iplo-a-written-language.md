@@ -1,6 +1,6 @@
 ---
 title: "Iplo: A Written Language"
-
+layout: article
 ---
 
 On a lark I decided to design my own alphabet. I had no prior experience, but it I figured it would be fun to theorycraft. I had these goals:

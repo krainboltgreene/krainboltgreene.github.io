@@ -1,6 +1,6 @@
 ---
 title: "Of Grand Importance"
-
+layout: article
 ---
 
 The bard plucked at his lute with a zen like focus, "We continue the tale from where we left off. Can any of you tell me what happened last?" Many of the children squealed and raised their tiny hands. "Oh! The Prince died!" "No that hasn't happened yet, stupid!" "I know! The smelly Zed left Ruby for that other place." "Python!" Holding up his worn hands the bard signaled for the children to calm down, "Correct! We last left the Prince Zed escaping from Ruby."

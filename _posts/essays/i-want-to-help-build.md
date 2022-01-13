@@ -1,5 +1,6 @@
 ---
 title: "I want to help build"
+layout: article
 ---
 
 There are a lot of good tech startup ideas that get passed up because of biases, privileges, and bigotry. I want to assist those people who have a hard time being heard in the tech world. For the next six months I'll be available to any person of color, trans, woman, and/or non-neurotypical entrepreneur.  The goal will be to assist in building a prototype over the span of two weeks.

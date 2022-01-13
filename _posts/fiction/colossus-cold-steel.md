@@ -1,6 +1,6 @@
 ---
 title: "Colossus: Cold Steel"
-
+layout: article
 ---
 
 > **The Metal Colossus**

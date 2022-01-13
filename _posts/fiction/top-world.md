@@ -1,6 +1,6 @@
 ---
 title: "Top World"
-
+layout: article
 ---
 
 "The top world was grey. A dead grey like the skin of my father. The various top world blankets rolled across the horizon and back. An invisible sea above the teams head. None of us were prepared for this sort of adventure, many had never had so much as a peek of the outside. Most puked, some cried, and others like myself simply stood silent. We were seven outcasts, charged by the King to find fortune in another mountain as punishment for our wrong doings. The humans called it a sky, we called it a sign of misfortune."

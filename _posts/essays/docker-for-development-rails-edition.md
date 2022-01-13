@@ -1,5 +1,6 @@
 ---
 title: "Docker For Development (Rails Edition)"
+layout: article
 ---
 
 On-boarding, the process of bringing a new worker into the fold, is often the hard part in starting at a company. Usually you are sat in front of a company computer and given a wiki link, GitHub repository, or maybe just an email with the steps for setting up your machine. If you’re lucky it’s been updated in the last year. We have the tools to do this better now and I want to explore them with you.

@@ -1,5 +1,6 @@
 ---
 title: "Rails Controllers and Actions"
+layout: article
 ---
 
 Deep down somewhere it's always bothered me how Rails handles the concept of Controllers in it's custom MVC framework. If you don't know I'll attempt to explain: In Rails you have a router. The router decides where requests go based on some meta-method magic. For example lets take this Rails routes.rb file:

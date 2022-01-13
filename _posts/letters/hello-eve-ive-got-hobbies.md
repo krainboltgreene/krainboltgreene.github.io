@@ -1,5 +1,6 @@
 ---
 title: "Hello Eve, I've got hobbies!"
+layout: article
 ---
 
 Hey Eve!

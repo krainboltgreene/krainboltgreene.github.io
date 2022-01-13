@@ -1,5 +1,6 @@
 ---
 title: "Why I created emailspy"
+layout: article
 ---
 
 **The Setup** It's Wednesday night and I'm working on a client's project. I'm making the app use S3 to store assets instead of being compiled by me and on Heroku. I notice that the production emails are wonky, specifically with the images and styles. I grab `letter_opener` and run development.

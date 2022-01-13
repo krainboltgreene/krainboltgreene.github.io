@@ -1,5 +1,6 @@
 ---
 title: "Loving Io is Painful"
+layout: article
 ---
 
 Recently (as in within the last two months) I've switched almost completely from doing things in Ruby to doing things in Io. Well, at least for hobby projects. Io simply isn't at the point where it can be used for the kinds of things I do. There's no equivalent Rails or even Sinatra. While I'm working on one there still isn't a lib manager that doesn't have "testing" or "documentation" in the todo list.

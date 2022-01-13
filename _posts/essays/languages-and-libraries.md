@@ -1,5 +1,6 @@
 ---
 title: "Languages & Libraries"
+layout: article
 ---
 
 Before I get into the meat of this essay lets lay down some shared terminology:

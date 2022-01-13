@@ -1,5 +1,6 @@
 ---
 title: "Exploring Padrino"
+layout: article
 ---
 
 I've finally decided to test the "Padrino" waters again. I've heard a lot of good things about it lately, and [a recent benchmark blew my fucking mind](https://github.com/DAddYE/web-frameworks-benchmark/wiki/achiu). So here I am, looking at the website, in my terminal, and with an editor open. A word about Padrino first: It's not an MVC framework, despite what the website says and how familiar that architecture feels. It's actually a [PAC](http://en.wikipedia.org/wiki/Presentation-abstraction-control), and it would do you well to remember this when using Padrino.

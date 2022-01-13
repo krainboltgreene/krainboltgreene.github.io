@@ -1,6 +1,6 @@
 ---
 title: "An old tale"
-
+layout: article
 ---
 
 He walked for as long as the light of day shined in the skies. I watched the mad vagrant cross from street to alley way and back. His tattered cloak protected him from the bright sun, but not the jeers of children. His worn boots protected his feet from the sharp rocks, but not the hooves of horses or the mail boots of the militia. I followed the staggering fool from the library entrance all the way to the slums of the eastern city and I knew not why.

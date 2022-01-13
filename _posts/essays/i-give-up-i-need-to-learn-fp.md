@@ -1,5 +1,6 @@
 ---
 title: "I give up I need to learn functional programming"
+layout: article
 ---
 
 Alright. Fine. I finally give in. I *need* to learn a functional programming language. I've tried before and given up. First I tried Erlang and it was too complex and strange. Then I tried Haskell and it went from simple to crazy. Then I picked up Clojure and I was like *"Woah. Verbose!"*

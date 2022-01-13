@@ -1,6 +1,6 @@
 ---
 title: "Dark King"
-
+layout: article
 ---
 
 His voice got all craggy like, and he thrust his pipe with the vigorous emphasis, "Muah father was told by his father. His father was told by his father. My great-great-great grand-mother spun this tale to him, 'cus his father was struck down by a carp!" The children all shuddered at the thought, "But the story goes like this, with some minor changes and additions..." The room went dark, his eyes glowed, there were no words from anyone but the red bearded bard. "There was once a godly dark king whom ruled from a oddly dark throne. His intentions were plain, he had no qualms, he was conquering the land with a viscous army of Thrawn. You see wee children, he had a spear, a spear that only a godly dark king could be near. It controlled the Thrawn, dark beasts of ill brood, warriors who showed no fear and little remorse. This dark king drove the humans to the shores, where they made their last stand, their blood still stains the vast plainlands."

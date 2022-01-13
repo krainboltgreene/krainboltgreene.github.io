@@ -1,5 +1,6 @@
 ---
 title: "I don't like file systems"
+layout: article
 ---
 
 [I've always been someone who is critical of how computer filesystems are shaping up these days][0]. I think my biggest contention is that these [developers][1] can't come up with a memorable name at all. Most people who care about this topic will shrug that off as a small thing (If they don't suggest it's a feature).

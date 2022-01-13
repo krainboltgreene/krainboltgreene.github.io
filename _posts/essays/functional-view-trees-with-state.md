@@ -1,5 +1,6 @@
 ---
 title: "Functional View Trees with State"
+layout: article
 ---
 
 So when it comes to doing functional programming for the web there's really only one thing that's been bothering me lately: Rendering views with state. I'll explain with the following example:

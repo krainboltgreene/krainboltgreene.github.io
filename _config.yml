@@ -24,7 +24,7 @@ description: >-
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: example.com
 url: "https://www.example.com" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics_id: xxxxx
+google_analytics_id: UA-18715035-1
 fonts: Montserrat&family=Open+Sans
 theme_color: "#a970ff"
 theme_color_background: "#000000"

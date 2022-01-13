@@ -1,5 +1,6 @@
 ---
 title: "OpenStruct sucked, I fixed it"
+layout: article
 ---
 
 > For reference I wrote this article about a year ago according to the commits at the `astruct` [repo](https://github.com/krainboltgreene/astruct). I never submitted it because I got frustrated with the Ruby MRI source contribution process. `astruct` could definitely use some cleaning up, but actually runs much better in 2.1.0 so the details still stand.
