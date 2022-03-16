@@ -1,0 +1,17 @@
+---
+layout: default
+title: Fiction
+---
+<header>
+  <h1>{{page.title}}</h1>
+</header>
+
+<section>
+  <ul>
+    {% for fiction in site.categories.fictions %}
+      <li>
+        <a href="{{ fiction.url }}">{{ fiction.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

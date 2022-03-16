@@ -1,0 +1,17 @@
+---
+layout: default
+title: Kurtis Rainbolt-Green's Website
+---
+<header>
+  <h1>{{page.title}}</h1>
+</header>
+
+<section>
+  <ul>
+    {% for essay in site.categories.essays %}
+      <li>
+        <a href="{{ essay.url }}">{{ essay.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

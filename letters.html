@@ -1,0 +1,17 @@
+---
+layout: default
+title: Letters
+---
+<header>
+  <h1>{{page.title}}</h1>
+</header>
+
+<section>
+  <ul>
+    {% for letter in site.categories.letters %}
+      <li>
+        <a href="{{ letter.url }}">{{ letter.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
