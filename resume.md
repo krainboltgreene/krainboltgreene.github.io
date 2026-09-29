@@ -11,20 +11,19 @@ You can find my Github at [https://github.com/krainboltgreene](https://github.co
 
 ## What I can do
 
-I primarily have experience in **Elixir** (three years), **Ruby** (eleven to twelve years), and **JavaScript** (six to seven years). I have extensive experience with **Phoenix**, **Rails**, and a lot of in-depth work experience using **React** and **Ember**. I have worked significant with all sorts of **JSON-based HTTP APIs** including contributing and implementing tooling for JSON:API (the specification and standard). I have a very good understanding of **GraphQL**. I have a very deep understanding of **PostgreSQL**, but I have also used and worked in environments with MySQL and MongoDB.
+I primarily have experience in **Elixir** (6 years), **Ruby** (11 to 12 years), and **JavaScript** (6 to 7 years). I have extensive experience with **Phoenix**, **Rails**, and a lot of in-depth work experience using **React** and **Ember**. I have worked significant with all sorts of **JSON-based HTTP APIs** including contributing and implementing tooling for JSON:API (the specification and standard). I have a very good understanding of **GraphQL**. I have a very deep understanding of **PostgreSQL**, but I have also used and worked in environments with MySQL and MongoDB. I am extremely familiar with **terraform**.
 
 
 ## Where I want to work
 
-**I currently live in Portland, OR**. I am *only* open to remote work and have been working remotely for six years. I have worked in many remote positions in my career and with remote engineers. I am willing to move to **New Orleans, LA** or **New York, NY**.
+**I currently live in Portland, OR**. I am open to remote work and have been working remotely for 10 years. I have worked in many remote positions in my career and with remote engineers. I am willing to relocate to **New Orleans, LA**.
 
 
 ## Who I want to work with
 
-I'm looking to work for a company that matches my ethical praxis:
+I'm looking to work for a company that has:
 
-  - Inclusive & diverse leadership
-  - Non-harmful cultural impact
+  - End-user focused solutions
   - Open & cooperative process
 
 I am completely open to discussing what these mean with you.
@@ -34,7 +33,7 @@ I am completely open to discussing what these mean with you.
 
 I have contributed to a significant number of open source projects of the last 12 years, with these being the ones I think are at least worth mentioning:
 
-  - VCR (owner), a ruby network cache that is often used for testing.
+  - VCR (previous owner), a ruby network cache that is often used for testing.
   - unctionjs (owner), a collection of javascript functions with FP in mind.
   - rubygems (core contributor), mainly the CI but also some other discussions about the web API.
   - mastodon (core contributor), a federated distributed social network with significant number of users.
@@ -47,15 +46,15 @@ I have contributed to a significant number of open source projects of the last 1
 
 ## Where I have worked
 
-  - Edge Payment Technologies, Inc, first as a **Lead Programmer** and then as **CTO** as requied by the company. I managed a group of four people and worked also as an individual contributor.
-  - TBWA/MediaArtsLabs, as a **Senior Backend Engineer** for *three and a half years*. I'm not legally allowed to discuss the details of the things I worked here, but I am allowed to say I worked on internal tooling.
-  - GOAT, as a **Senior Backend Engineer** for *one year*. I worked on making GOAT, all of it's services, significantly more performant for their high-yield commerce periods, worked on bringing their infrastructure and applications up to date with all the latest libraries, toolings, and framework, whipped into shape their developer on-boarding experience,  worked on a “power tool” for their power-sellers that dealt with a high volume of data. I facilitated in the education of my peers while also writing documentation for any processes. I first modified and then eventually refactored the shipping logic, saving/making large amounts of money for the company.
-  - Laurel & Wolf, as a **Senior Software Engineer** for *two years*. I wrote a significant amount of code that is currently running on that platform, including: An advanced matching system, many heavily used API endpoints, an activity monitoring log, ETL tooling, and an advanced coupon/credit/giftcard promotion system. Most of my early work there was in Ruby, but later parts were frontend development in Javascript.
-  - Dollar Shave Club, as a **Contract Developer** for *three months*. I worked to help them transition from their Magento platform to a Rails platform. I largely did conversion tasks and teaching materials.
-  - Webrand, as a **Contract Developer** for *one year*. I built out the entire ecommerce application as well as a tool for designing t-shirts in the browser.
-  - Nation Builder, as a **Software Engineer**. My largest contribution was a new permission system that managed who could read, write, and in certain cases "execute" (like send an email) on documents, data, and management tooling. I also built out a prototype system for syncing designer themes into our content management system.
-  - Makindo, as a **Contact Developer**. I built out an entire platform and infrastructure for crawling Twitter, Linkedin, Facebook, and more for information used in telemarketing operations by large car marketing corporations. We built out a data analysis platform and machine learning tool (very primitive) as well as a tool for observing the system.
-  - iSeatz, as a **Software Engineer**. I was on the foundation team for the new contract they had with American Express to build their new travel website. Specifically I worked on the initial application and then further on the Dynamic Packaging team. I also worked heavily with the outsourced component team.
+  - Edge Payment Technologies, Inc (6 years), first as a **Lead Programmer** and then as **CTO** as requied by the company. I managed a group of four people and worked also as an individual contributor.
+  - TBWA/MediaArtsLabs (5 years), as a **Senior Backend Engineer** for *three and a half years*. I'm not legally allowed to discuss the details of the things I worked here, but I am allowed to say I worked on internal tooling.
+  - GOAT (2 years), as a **Senior Backend Engineer** for *one year*. I worked on making GOAT, all of it's services, significantly more performant for their high-yield commerce periods, worked on bringing their infrastructure and applications up to date with all the latest libraries, toolings, and framework, whipped into shape their developer on-boarding experience,  worked on a “power tool” for their power-sellers that dealt with a high volume of data. I facilitated in the education of my peers while also writing documentation for any processes. I first modified and then eventually refactored the shipping logic, saving/making large amounts of money for the company.
+  - Laurel & Wolf (3 years), as a **Senior Software Engineer** for *two years*. I wrote a significant amount of code that is currently running on that platform, including: An advanced matching system, many heavily used API endpoints, an activity monitoring log, ETL tooling, and an advanced coupon/credit/giftcard promotion system. Most of my early work there was in Ruby, but later parts were frontend development in Javascript.
+  - Dollar Shave Club (1 year), as a **Contract Developer** for *three months*. I worked to help them transition from their Magento platform to a Rails platform. I largely did conversion tasks and teaching materials.
+  - Webrand (1 year), as a **Contract Developer** for *one year*. I built out the entire ecommerce application as well as a tool for designing t-shirts in the browser.
+  - Nation Builder (1 year), as a **Software Engineer**. My largest contribution was a new permission system that managed who could read, write, and in certain cases "execute" (like send an email) on documents, data, and management tooling. I also built out a prototype system for syncing designer themes into our content management system.
+  - Makindo (1 year), as a **Contact Developer**. I built out an entire platform and infrastructure for crawling Twitter, Linkedin, Facebook, and more for information used in telemarketing operations by large car marketing corporations. We built out a data analysis platform and machine learning tool (very primitive) as well as a tool for observing the system.
+  - iSeatz (2 years), as a **Software Engineer**. I was on the foundation team for the new contract they had with American Express to build their new travel website. Specifically I worked on the initial application and then further on the Dynamic Packaging team. I also worked heavily with the outsourced component team.
 
 I've also worked the following places:
 
